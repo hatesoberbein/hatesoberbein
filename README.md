@@ -53,6 +53,12 @@ I work with **JavaScript and TypeScript**, exploring web engineering and practic
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=EF233C&center=true&vCenter=true&width=700&height=45&lines=%3E+write+%E2%86%92+build+%E2%86%92+refine;%3E+small+details.+better+software.;%3E+keep+moving+forward_" alt="Animated terminal: write, build, refine" />
 
 
+### ◈ Contribution hunter
+
+<img width="100%" src="https://raw.githubusercontent.com/hatesoberbein/hatesoberbein/main/assets/contribution-snake.svg" alt="Animated crimson snake eating my GitHub contribution graph" />
+
+<sub>My contribution graph, consumed one square at a time. Refreshed daily.</sub>
+
 ### ◈ GitHub pulse
 
 
@@ -96,12 +102,7 @@ I work with **JavaScript and TypeScript**, exploring web engineering and practic
 
 <a href="https://github.com/hatesoberbein/hatesoberbein/graphs/contributors"><img src="https://contrib.rocks/image?repo=hatesoberbein/hatesoberbein" alt="Contributors to this profile" /></a>
 
-<details>
-<summary>Visual credits</summary>
 
-Animation inspiration: [trinib](https://github.com/trinib/trinib). Character GIFs served by Giphy and Tenor. Custom crimson wave animation created for this profile.
-
-</details>
 
 
 </div>
